@@ -1,4 +1,4 @@
-# Kecerdasa Buatan G
+# Kecerdasan Buatan G
 Kelompok :
 1. Achmad Rifqi Rosadi
    201910370311304
