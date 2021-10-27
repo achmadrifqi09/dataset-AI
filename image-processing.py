@@ -11,7 +11,7 @@ files1 = []
 files2 = []
 
 [files1.extend(glob.glob(img_dir + '*.' +e))for e in ext]
-[files2.extend(glob.glob(img_dir2 + '*.' +ex))for e int ext]
+[files2.extend(glob.glob(img_dir2 + '*.' +ex))for ex int ext]
 
 images1 = [cv2.imread(file1) for file1 in files1]
 images1 = [cv2.imread(file2) for file2 in files2]
