@@ -6,6 +6,7 @@ Kelompok :
    201910370311335
    
 Hasil yang kami dapatkan :
+
 ANN :
 
 ![Figure_1](https://user-images.githubusercontent.com/55131961/145166072-56c51f5d-cf68-45ef-ae63-cd9f6806a843.png)
