@@ -110,3 +110,5 @@ cv2.putText(output, text, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 
 cv2.imshow('Output', output)
 cv2.waitKey() 
 cv2.destroyWindow('Output')
+
+model.save('model-save.h5')
